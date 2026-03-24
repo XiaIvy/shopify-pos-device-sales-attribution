@@ -1,0 +1,3 @@
+device_id,location_name,register_hint,orders_count,transactions_count,total_sales
+gid://shopify/PointOfSaleDevice/DEVICE_A,Sample Store A,01,9,10,1241.74
+gid://shopify/PointOfSaleDevice/DEVICE_B,Sample Store A,02,1,1,34.95
